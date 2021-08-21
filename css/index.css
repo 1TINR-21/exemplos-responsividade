@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    background-color: black;
+    color: #fff;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 800px;
+    max-width: 1100px;
+}
+
+.cabecalho{
+    background-color: brown;
+    padding:5% 1%;
+}
+
+.cabecalho li{
+    display: inline;
+}
